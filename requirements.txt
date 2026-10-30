@@ -1,0 +1,27 @@
+
+# Data processing
+pandas
+numpy
+pyarrow
+
+# Machine learning
+scikit-learn
+imbalanced-learn
+joblib
+
+# API backend
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Data visualization
+matplotlib
+seaborn
+plotly
+
+# Notebooks and experimentation
+jupyter
+
+# Testing
+pytest
+httpx
